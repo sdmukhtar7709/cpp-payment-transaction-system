@@ -1,6 +1,6 @@
 # PayCore – Payment Transaction Management System (C++)
 
-PayCore is a console-based educational project that simulates a basic payment transaction workflow. It demonstrates C++ programming fundamentals, object-oriented design, STL containers, validation, exception handling, persistence, and automated tests.
+PayCore is a console-based C++  project that simulates a basic payment transaction workflow. It demonstrates C++ programming fundamentals, object-oriented design, STL containers, validation, exception handling, persistence, and automated tests.
 
 > **Important:** This is a learning/demo application. It does not connect to banks, card networks, payment processors, or real customer accounts. The payment gateway outcome is simulated. Do not use it to process real payments or store real payment-card information.
 
