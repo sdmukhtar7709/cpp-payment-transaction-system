@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+*.db
+*.db.tmp
+*.exe
+*.o
+*.obj
+.vscode/
+.idea/
